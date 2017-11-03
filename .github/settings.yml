@@ -1,0 +1,32 @@
+# Probot is a pluggable architecture, created by GitHub for automating actions
+# on their platform.
+# @see https://probot.github.io/
+#
+# Probot:Settings is a Probot plugin for allowing code repository settings to
+# be defined from a file in the repo itself. This allows settings to be changed
+# via the same pull request process that other code changes go through.
+# @see https://github.com/apps/settings
+#
+# This is that configuration file.
+#
+repository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings
+
+  # The name of the repository. Changing this will rename the repository
+  name: overview
+
+  # A short description of the repository that will show up on GitHub
+  description: 🎈 A experimental effort to coordinate meetup resources through GitHub.
+
+  # A URL with more information about the repository
+  homepage: null
+
+  private: false
+
+  has_issues: true
+
+  has_wiki: false
+
+  has_downloads: false
+
+  default_branch: master
