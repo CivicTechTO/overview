@@ -1,6 +1,5 @@
 <div align="center"><img width=40%
-src="./images/EDGI-Logo-Horiz.png" alt="Environmental Data and
-Governance Initiative Logo"></div>
+src="./images/civictechto-logo-horizontal.png" alt="Civic Tech Toronto logo"></div>
 
 # Overview
 
