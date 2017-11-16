@@ -5,6 +5,26 @@ src="./images/civictechto-logo-horizontal.png" alt="Civic Tech Toronto logo"></d
 
 🎈 A experimental effort to coordinate meetup resources through GitHub.
 
+## Table of Contents
+- [Community Infrastructure](#community-infrastructure)
+- [Resources](#resources)
+
+## Community Infrastructure
+
+Community and operations infrastructure that support both our internal and outreach processes.
+
+| **Legend** |
+|:-----------|
+| :microscope: Unofficial/Experimental |
+| :pray: Self-hosted |
+
+| | Tool Name | Description |
+|-|-----------|-------------|
+| :pray: | [**`hubot-toby`**](https://github.com/CivicTechTO/hubot-toby) | Custom chat bot who lives in our slack |
+| :pray: | [**`civictechto-slack-invite`**](https://github.com/CivicTechTO/civictechto-slack-invite) | Small app for public Slack sign-up |
+| :pray::microscope: | [**`prog-channels`**](https://github.com/CivicTechTO/prog-channels) | Tool to sync Slack channel list to a public Airtable |
+| :pray: | [**`matterbridge-heroku`**](https://github.com/edgi-govdata-archiving/matterbridge-heroku) | Tool to help bridge chat channels between Slacks |
+
 ## Resources
 
 This is a list of resources that are available.
