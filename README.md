@@ -2,6 +2,7 @@
 src="./images/civictechto-logo-horizontal.png" alt="Civic Tech Toronto logo"></div>
 
 # Overview
+[![Slack badge](https://civictechto-slack-invite.herokuapp.com/badge.svg)](https://civictechto-slack-invite.herokuapp.com/)
 
 🎈 A experimental effort to coordinate meetup resources through GitHub.
 
