@@ -25,6 +25,12 @@ Community and operations infrastructure that support both our internal and outre
 | :pray: | [**`civictechto-slack-invite`**](https://github.com/CivicTechTO/civictechto-slack-invite) | Small app for public Slack sign-up |
 | :pray::microscope: | [**`prog-channels`**][prog-channels] | Tool to sync Slack channel list to a public Airtable |
 | :pray: | [**`matterbridge-heroku`**](https://github.com/edgi-govdata-archiving/matterbridge-heroku) | Tool to help bridge chat channels between Slacks |
+| :microscope: | [**`civictech.ca-wordpress`**](https://github.com/civictechto/civictech.ca-wordpress) | [Pantheon-hosted][pantheon] Wordpress website - [dev][wp-dev] [test][wp-test] [prod][wp-prod] |
+
+   [wp-dev]: http://dev-civictechto.pantheonsite.io/
+   [wp-test]: http://test-civictechto.pantheonsite.io/
+   [wp-prod]: http://civictech.ca
+   [pantheon]: https://pantheon.io/features/wordpress-hosting-on-pantheon
 
 ## Resources
 
