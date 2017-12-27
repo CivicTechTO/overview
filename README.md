@@ -20,7 +20,7 @@ Community and operations infrastructure that support both our internal and outre
 | :pray: Self-hosted |
 
 |  | Tool Name | Description |
-|---|-----------|-------------|
+|--|-----------|-------------|
 | :pray: | [**`hubot-toby`**](https://github.com/CivicTechTO/hubot-toby) | Custom chat bot who lives in our slack |
 | :pray: | [**`civictechto-slack-invite`**](https://github.com/CivicTechTO/civictechto-slack-invite) | Small app for public Slack sign-up |
 | :pray::microscope: | [**`prog-channels`**][prog-channels] | Tool to sync Slack channel list to a public Airtable |
