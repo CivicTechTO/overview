@@ -12,7 +12,11 @@ src="./images/civictechto-logo-horizontal.png" alt="Civic Tech Toronto logo"></d
 
 ## Community Infrastructure
 
-Community and operations infrastructure that support both our internal and outreach processes.
+Community and operations infrastructure that support both our internal
+and outreach processes. We tag these repos with an [`infrastructure`
+topic label][infra-topic].
+
+   [infra-topic]: https://github.com/CivicTechTO?q=topic:infrastructure
 
 | **Legend** |
 |:-----------|
@@ -27,7 +31,15 @@ Community and operations infrastructure that support both our internal and outre
 | :pray: | [**`matterbridge-heroku`**](https://github.com/edgi-govdata-archiving/matterbridge-heroku) | Tool to help bridge chat channels between Slacks |
 | :pray::microscope: | [**`civictechto-members`**](https://github.com/civictechto/civictechto-members) | Script for aggregating member stats |
 | :microscope: | [**`civictech.ca-wordpress`**](https://github.com/civictechto/civictech.ca-wordpress) | [Pantheon-hosted][pantheon] Wordpress website - [dev][wp-dev] [test][wp-test] [prod][wp-prod] |
+|  | **`meetup-attendance-downloader`** | Web app for venue hosts to get attendance list for next Meetup |
+|  | **`event-metadata-parser`** | Small API to parse event data from links |
+|  | **`civictechto-scripts`** | Some code scripts and tooling for running scheduled housekeeping tasks |
+|  | **`civictechto-community-toolkit`** | Web app for sharing community resources from a spreadsheet |
+| :microscope: | [**`trello-pitch-board`**][2] | Proof-of-concept for a hacknight project dashboard backed by Trello |
+| :microscope: | [**`trello-powerup-board-copier`**][1] | One-click copying of boards, that notifies team of action |
 
+   [1]: https://github.com/patcon/trello-powerup-board-copier
+   [2]: https://github.com/CivicTechTO/trello-pitch-board
    [wp-dev]: http://dev-civictechto.pantheonsite.io/
    [wp-test]: http://test-civictechto.pantheonsite.io/
    [wp-prod]: http://civictech.ca
