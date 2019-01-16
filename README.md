@@ -33,7 +33,7 @@ topic label][infra-topic].
 | :microscope: | [**`civictech.ca-wordpress`**](https://github.com/civictechto/civictech.ca-wordpress) | [Pantheon-hosted][pantheon] Wordpress website - [dev][wp-dev] [test][wp-test] [prod][wp-prod] |
 |  | **`meetup-attendance-downloader`** | Web app for venue hosts to get attendance list for next Meetup |
 |  | **`event-metadata-parser`** | Small API to parse event data from links |
-|  | **`civictechto-scripts`** | Some code scripts and tooling for running scheduled housekeeping tasks |
+|  | **`civictechto-scripts`** | Code scripts for running scheduled housekeeping tasks |
 |  | **`civictechto-community-toolkit`** | Web app for sharing community resources from a spreadsheet |
 | :microscope: | [**`trello-pitch-board`**][2] | Proof-of-concept for a hacknight project dashboard backed by Trello |
 | :microscope: | [**`trello-powerup-board-copier`**][1] | One-click copying of boards, that notifies team of action |
