@@ -16,7 +16,7 @@ Community and operations infrastructure that support both our internal
 and outreach processes. We tag these repos with an [`infrastructure`
 topic label][infra-topic].
 
-   [infra-topic]: https://github.com/CivicTechTO?q=topic:infrastructure
+   [infra-topic]: https://github.com/search?q=topic:infrastructure+org:CivicTechTO&type=Repositories
 
 | **Legend** |
 |:-----------|
@@ -37,9 +37,13 @@ topic label][infra-topic].
 |  | **`civictechto-community-toolkit`** | Web app for sharing community resources from a spreadsheet |
 | :microscope: | [**`trello-pitch-board`**][2] | Proof-of-concept for a hacknight project dashboard backed by Trello |
 | :microscope: | [**`trello-powerup-board-copier`**][1] | One-click copying of boards, that notifies team of action |
+|  | [**`tweet-stub-helper`**][3] | Simple app for creating tweet stubs from a Google Sheet |
+|  | [**`circleci-job-runner`**][4] | Simple API for running CircleCI jobs via public endpoints |
 
    [1]: https://github.com/patcon/trello-powerup-board-copier
    [2]: https://github.com/CivicTechTO/trello-pitch-board
+   [3]: https://github.com/CivicTechTO/tweet-stub-helper
+   [4]: https://github.com/CivicTechTO/circleci-job-runner
    [wp-dev]: http://dev-civictechto.pantheonsite.io/
    [wp-test]: http://test-civictechto.pantheonsite.io/
    [wp-prod]: http://civictech.ca
