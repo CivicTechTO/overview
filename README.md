@@ -31,10 +31,10 @@ topic label][infra-topic].
 | :pray: | [**`matterbridge-heroku`**](https://github.com/edgi-govdata-archiving/matterbridge-heroku) | Tool to help bridge chat channels between Slacks |
 | :pray::microscope: | [**`civictechto-members`**](https://github.com/civictechto/civictechto-members) | Script for aggregating member stats |
 | :microscope: | [**`civictech.ca-wordpress`**](https://github.com/civictechto/civictech.ca-wordpress) | [Pantheon-hosted][pantheon] Wordpress website - [dev][wp-dev] [test][wp-test] [prod][wp-prod] |
-|  | **`meetup-attendance-downloader`** | Web app for venue hosts to get attendance list for next Meetup |
-|  | **`event-metadata-parser`** | Small API to parse event data from links |
-|  | **`civictechto-scripts`** | Code scripts for running scheduled housekeeping tasks |
-|  | **`civictechto-community-toolkit`** | Web app for sharing community resources from a spreadsheet |
+|  | [**`meetup-attendance-downloader`**][5] | Web app for venue hosts to get attendance list for next Meetup |
+|  | [**`event-metadata-parser`**][6] | Small API to parse event data from links |
+|  | [**`civictechto-scripts`**][7] | Code scripts for running scheduled housekeeping tasks |
+|  | [**`civictechto-community-toolkit`**][8] | Web app for sharing community resources from a spreadsheet |
 | :microscope: | [**`trello-pitch-board`**][2] | Proof-of-concept for a hacknight project dashboard backed by Trello |
 | :microscope: | [**`trello-powerup-board-copier`**][1] | One-click copying of boards, that notifies team of action |
 |  | [**`tweet-stub-helper`**][3] | Simple app for creating tweet stubs from a Google Sheet |
@@ -44,6 +44,10 @@ topic label][infra-topic].
    [2]: https://github.com/CivicTechTO/trello-pitch-board
    [3]: https://github.com/CivicTechTO/tweet-stub-helper
    [4]: https://github.com/CivicTechTO/circleci-job-runner
+   [5]: https://github.com/CivicTechTO/meetup-attendance-downloader
+   [6]: https://github.com/CivicTechTO/event-metadata-parser
+   [7]: https://github.com/CivicTechTO/civictechto-scripts
+   [8]: https://github.com/CivicTechTO/civictechto-community-toolkit
    [wp-dev]: http://dev-civictechto.pantheonsite.io/
    [wp-test]: http://test-civictechto.pantheonsite.io/
    [wp-prod]: http://civictech.ca
