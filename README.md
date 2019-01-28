@@ -8,6 +8,7 @@ src="./images/civictechto-logo-horizontal.png" alt="Civic Tech Toronto logo"></d
 
 ## Table of Contents
 - [Community Infrastructure](#community-infrastructure)
+  - [Philosophy](#philosophy)
 - [Resources](#resources)
 
 ## Community Infrastructure
@@ -52,6 +53,49 @@ topic label][infra-topic].
    [wp-test]: http://test-civictechto.pantheonsite.io/
    [wp-prod]: http://civictech.ca
    [pantheon]: https://pantheon.io/features/wordpress-hosting-on-pantheon
+
+### Philosophy
+
+When building community infrastructure, there are several overarching
+principles that we try to align with. This is an evolving list primarily
+curated by @patcon, but people do contribute feedback and improvements!
+
+1. **Use existing tools as user interfaces.** If your team widely uses a
+   tool already -- Google Spreadsheets, Trello, GitHub, Slack, Meetup --
+try to make that the interface. Be attentive not to force a tool that's
+not already on the team's critical path. Try to choose the tool that has
+the most access among organizers, and appropriate permissions. ie. If
+only 5 people manage Meetup, it's perhaps best not to make it the
+interface.
+1. **Don't fight with humans.** Organizers should rarely have to fight
+   with a script. If they want to "take over", they should be able to do
+so as easily as possible.
+1. **Die gracefully when forgotten.** If organizers forget about the
+   automation, allow them to easily go back to working with tools
+directly.
+1. **Be clear about a point of contact for support.** Don't assume
+   people know to check Git commit history on code.
+1. **Vocalize, but don't spam.** Consider announcing automated actions
+   in appropriate communition channels. This is to help ensure the
+organization doesn't forget that automation is taking place. Be
+thoughtful to include essential details, so that messages don't come to
+be seen as repetitive and pointless. eg. Don't simply announce
+"New users given permissions to files" every time a script runs, but rather, add
+logic to only speak up when significant changes are made, and mention
+who was added. Consider making top-level channel post very short, and
+hiding details in thread replies.
+1. **Assume transience of organization membership.** Assume that the
+   things that seem most important and front-of-mind will be forgotten
+during leadership transitions.
+1. **Leverage tools and spaces people already use.** If organizers are
+   using Google Spreadsheets to manage work, don't unilaterally try to
+introduce a new tool like Trello.
+1. **Keep hardcoded assumptions and configuration out of code when
+   possible.** If there's a template file that an organizer should be
+able to tweak, reference it in a spreadsheet cell, rather than
+hardcoded or set via environment variable. Better still, allow that template
+to be a Google Document, rather than a static text file stored at a link
+online.
 
 ## Resources
 
