@@ -60,7 +60,7 @@ topic label][infra-topic].
 
 When building community infrastructure, there are several overarching
 principles that we try to align with. This is an evolving list primarily
-curated by @patcon, but people do contribute feedback and improvements!
+curated by @patcon, but please do contribute feedback and improvements!
 
 1. **Use existing tools as user interfaces.** If your team widely uses a
    tool already -- Google Spreadsheets, Trello, GitHub, Slack, Meetup --
