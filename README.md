@@ -40,6 +40,7 @@ topic label][infra-topic].
 | :microscope: | [**`trello-powerup-board-copier`**][1] | One-click copying of boards, that notifies team of action |
 |  | [**`tweet-stub-helper`**][3] | Simple app for creating tweet stubs from a Google Sheet |
 |  | [**`circleci-job-runner`**][4] | Simple API for running CircleCI jobs via public endpoints |
+|  | [**`anki-meetup-memorizer`**][9] | Tool to create _spaced repetition_ cards ([video](https://www.youtube.com/watch?v=osK0Agqu7dc)) from Meetup events | 
 
    [1]: https://github.com/patcon/trello-powerup-board-copier
    [2]: https://github.com/CivicTechTO/trello-pitch-board
@@ -49,6 +50,7 @@ topic label][infra-topic].
    [6]: https://github.com/CivicTechTO/event-metadata-parser
    [7]: https://github.com/CivicTechTO/civictechto-scripts
    [8]: https://github.com/CivicTechTO/civictechto-community-toolkit
+   [9]: https://github.com/civictechto/anki-meetup-memorizer
    [wp-dev]: http://dev-civictechto.pantheonsite.io/
    [wp-test]: http://test-civictechto.pantheonsite.io/
    [wp-prod]: http://civictech.ca
