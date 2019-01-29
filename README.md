@@ -69,8 +69,8 @@ not already on the team's critical path. Try to choose the tool that has
 the most access among organizers, and appropriate permissions. ie. If
 only 5 people manage Meetup, it's perhaps best not to make it the
 interface.
-1. **Don't fight with humans.** Organizers should rarely have to fight
-   with a script. If they want to "take over", they should be able to do
+1. **Don't fight with humans.** Organizers should _never_ have to fight
+   with an automated script. If they want to "take over", they should be able to do
 so as easily as possible.
 1. **Die gracefully when forgotten.** If organizers forget about the
    automation, allow them to easily go back to working with tools
@@ -78,7 +78,7 @@ directly.
 1. **Be clear about a point of contact for support.** Don't assume
    people know to check Git commit history on code.
 1. **Vocalize, but don't spam.** Consider announcing automated actions
-   in appropriate communition channels. This is to help ensure the
+   in appropriate communication channels. This is to help ensure the
 organization doesn't forget that automation is taking place. Be
 thoughtful to include essential details, so that messages don't come to
 be seen as repetitive and pointless. eg. Don't simply announce
