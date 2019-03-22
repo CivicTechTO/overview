@@ -54,6 +54,7 @@ topic label][infra-topic].
    [8]: https://github.com/CivicTechTO/civictechto-community-toolkit
    [9]: https://github.com/civictechto/anki-meetup-memorizer
    [10]: https://github.com/CivicTechTO/slack-greeting-bot
+   [11]: https://github.com/CivicTechTO/gdrive-whats-new-app
    [wp-dev]: http://dev-civictechto.pantheonsite.io/
    [wp-test]: http://test-civictechto.pantheonsite.io/
    [wp-prod]: http://civictech.ca
