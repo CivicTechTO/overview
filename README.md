@@ -43,7 +43,7 @@ topic label][infra-topic].
 |  | [**`anki-meetup-memorizer`**][9] | Tool to create _spaced repetition_ cards ([video](https://www.youtube.com/watch?v=osK0Agqu7dc)) from Meetup events | 
 |  | [**`slack-greeting-bot`**][10] | Slackbot to send a greeting message to a user who joins a channel |
 | :microscope: | [**`gdrive-whats-new-app`**][11] | Small app for redirecting to a GDrive folder's newest file. |
-| :microscope: | [**`people-list-parser`**][12] | Embeddable widget to render view of organizing team from Google Spreadsheets. |
+| :microscope: | [**`people-list-parser`**][12] | Embeddable widget that renders view of organizing team from spreadsheet. |
 
    [1]: https://github.com/patcon/trello-powerup-board-copier
    [2]: https://github.com/CivicTechTO/trello-pitch-board
