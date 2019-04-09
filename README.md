@@ -43,6 +43,7 @@ topic label][infra-topic].
 |  | [**`anki-meetup-memorizer`**][9] | Tool to create _spaced repetition_ cards ([video](https://www.youtube.com/watch?v=osK0Agqu7dc)) from Meetup events | 
 |  | [**`slack-greeting-bot`**][10] | Slackbot to send a greeting message to a user who joins a channel |
 | :microscope: | [**`gdrive-whats-new-app`**][11] | Small app for redirecting to a GDrive folder's newest file. |
+| :microscope: | [**`people-list-parser`**][12] | Embeddable widget to render view of organizing team from Google Spreadsheets. |
 
    [1]: https://github.com/patcon/trello-powerup-board-copier
    [2]: https://github.com/CivicTechTO/trello-pitch-board
@@ -55,6 +56,7 @@ topic label][infra-topic].
    [9]: https://github.com/civictechto/anki-meetup-memorizer
    [10]: https://github.com/CivicTechTO/slack-greeting-bot
    [11]: https://github.com/CivicTechTO/gdrive-whats-new-app
+   [12]: https://github.com/CivicTechTO/people-list-parser
    [wp-dev]: http://dev-civictechto.pantheonsite.io/
    [wp-test]: http://test-civictechto.pantheonsite.io/
    [wp-prod]: http://civictech.ca
