@@ -109,7 +109,7 @@ online.
 
 This is a list of resources that are available.
 
-### Operations
+### Internal Operations
 
 * [**Service & Access Inventory.**][service-inventory] For tracking what
   services we use, and who has access to what.
@@ -120,6 +120,10 @@ This is a list of resources that are available.
   Slack.
 * [**Member attendance count list.**][member-list] Ethercalc spreadsheet
   updated daily from public data on Meetup.com.
+  
+### External
+
+* [**`openoakland/infra`**.][openoakland-infra] An experiment to apply the practices of Infrastructure as Code to OpenOakland.
 
 <!-- Links -->
 
@@ -128,3 +132,4 @@ This is a list of resources that are available.
    [channels]: https://airtable.com/shrPfXyBSKIu8k49P/tbldBIVlA6XtUMtQW
    [member-list]: https://ethercalc.org/civictechto-members
    [prog-channels]: https://github.com/civictechto/prog-channels
+   [openoakland-infra]: https://github.com/openoakland/infra
