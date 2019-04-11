@@ -124,6 +124,8 @@ This is a list of resources that are available.
 ### External
 
 * [**`openoakland/infra`**.][openoakland-infra] An experiment to apply the practices of Infrastructure as Code to OpenOakland.
+* [**`g0v-infras` hackholdr.**][g0v-infras] A hackholdr for holding resources and notes for g0v.tw's infrath0n hackathons and projects.
+* [**`g0v/domain`.**][g0v-domain] Repo for managing g0v domains via automated script.
 
 <!-- Links -->
 
@@ -133,3 +135,5 @@ This is a list of resources that are available.
    [member-list]: https://ethercalc.org/civictechto-members
    [prog-channels]: https://github.com/civictechto/prog-channels
    [openoakland-infra]: https://github.com/openoakland/infra
+   [g0v-infras]: https://beta.hackfoldr.org/g0v-infras
+   [g0v-domain]: https://github.com/g0v/domain
