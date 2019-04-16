@@ -126,6 +126,7 @@ This is a list of resources that are available.
 * [**`openoakland/infra`**.][openoakland-infra] An experiment to apply the practices of Infrastructure as Code to OpenOakland.
 * [**`g0v-infras` hackholdr.**][g0v-infras] A hackholdr for holding resources and notes for g0v.tw's infrath0n hackathons and projects.
 * [**`g0v/domain`.**][g0v-domain] Repo for managing g0v domains via automated script.
+* [**`18F/dns`.**][18f-dns] DNS configuration for domains managed by GSA TTS.
 
 <!-- Links -->
 
@@ -137,3 +138,4 @@ This is a list of resources that are available.
    [openoakland-infra]: https://github.com/openoakland/infra
    [g0v-infras]: https://beta.hackfoldr.org/g0v-infras
    [g0v-domain]: https://github.com/g0v/domain
+   [18f-dns]: https://github.com/18F/dns
