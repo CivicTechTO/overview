@@ -44,6 +44,7 @@ topic label][infra-topic].
 |  | [**`slack-greeting-bot`**][10] | Slackbot to send a greeting message to a user who joins a channel |
 | :microscope: | [**`gdrive-whats-new-app`**][11] | Small app for redirecting to a GDrive folder's newest file. |
 | :microscope: | [**`people-list-parser`**][12] | Embeddable widget that renders view of organizing team from GSheets. |
+|  | [**`hubot-sms-doorbell`**][13] | Ping Slack team via text message (non-venue-specific doorbell) |
 
    [1]: https://github.com/patcon/trello-powerup-board-copier
    [2]: https://github.com/CivicTechTO/trello-pitch-board
@@ -61,6 +62,7 @@ topic label][infra-topic].
    [wp-test]: http://test-civictechto.pantheonsite.io/
    [wp-prod]: http://civictech.ca
    [pantheon]: https://pantheon.io/features/wordpress-hosting-on-pantheon
+   [13]: https://github.com/civictechto/hubot-sms-doorbell
 
 ### Philosophy
 
