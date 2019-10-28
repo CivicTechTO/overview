@@ -106,6 +106,7 @@ able to tweak, reference it in a spreadsheet cell, rather than
 hardcoded or set via environment variable. Better still, allow that template
 to be a Google Document, rather than a static text file stored at a link
 online.
+1. **Don't automate emotional labour.** Emotional labour is for people, not robots. E.g., saying thank-you. Automate reminders for people to engage in this work, but be very cautious not to hide its occurence or put it further away via automation. <sup>1</sup>
 
 ## Resources
 
@@ -129,6 +130,10 @@ This is a list of resources that are available.
 * [**`g0v-infras` hackholdr.**][g0v-infras] A hackholdr for holding resources and notes for g0v.tw's infrath0n hackathons and projects.
 * [**`g0v/domain`.**][g0v-domain] Repo for managing g0v domains via automated script.
 * [**`18F/dns`.**][18f-dns] DNS configuration for domains managed by GSA TTS.
+
+### Footnotes
+
+1. h/t to a contributor at our session at Code for America Brigade Congress 2019, for inspiring this point.
 
 <!-- Links -->
 
