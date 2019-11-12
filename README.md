@@ -45,6 +45,7 @@ topic label][infra-topic].
 | :microscope: | [**`gdrive-whats-new-app`**][11] | Small app for redirecting to a GDrive folder's newest file. |
 | :microscope: | [**`people-list-parser`**][12] | Embeddable widget that renders view of organizing team from GSheets. |
 |  | [**`hubot-sms-doorbell`**][13] | Ping Slack team via text message (non-venue-specific doorbell) |
+| :microscope: | [**`civictechto-rerouter`**][14] | Redirect subdomains to a given webpage (e.g., `yyc.civictech.ca`) |
 
    [1]: https://github.com/patcon/trello-powerup-board-copier
    [2]: https://github.com/CivicTechTO/trello-pitch-board
@@ -63,6 +64,7 @@ topic label][infra-topic].
    [wp-prod]: http://civictech.ca
    [pantheon]: https://pantheon.io/features/wordpress-hosting-on-pantheon
    [13]: https://github.com/civictechto/hubot-sms-doorbell
+   [14]: https://github.com/patcon/civictechto-rerouter
 
 ### Philosophy
 
